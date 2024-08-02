@@ -10,7 +10,7 @@ Luigi Capogrosso<sup>1</sup>, Shengjie Xu<sup>2</sup>, Enrico Fraccaroli<sup>1,2
 <sup>2</sup> *Department of Computer Science, The University of North Carolina at Chapel Hill, USA*
 
 ## Citation ##
-If you use [**MTL-Split**](https://arxiv.org/abs/2407.05982), please, cite the following paper:
+If you use [**Learning-Enabled CPS**](), please, cite the following paper:
 ```
-TBA
+TBA.
 ```
